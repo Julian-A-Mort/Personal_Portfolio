@@ -97,6 +97,7 @@ body {
    flex: 3;
    align-items: flex-end;
    padding-left: 60px;
+   font-size: 25px;
 }
 
 /* Work Content */
@@ -143,12 +144,21 @@ body {
 }
 
 /* define sub project boxes */
+.subproject-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    align-items: flex-start;
+}
+
+
 .subproject {
     position: relative;
     border: 5px solid var(--dark-background-colour);
-    width: calc(50% - 10px);
+    width: calc(40% - 10px);
     margin: 20px;
     height: 120px;
+    flex-basis: auto;
 }
 
 .subproject-details {
