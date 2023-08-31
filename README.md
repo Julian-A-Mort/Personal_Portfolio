@@ -24,7 +24,7 @@ Previous works and a short bio
 Screenshot:
 
 ```md
-    ![screenshot](assets/images/screenshot.png)
+    ![screenshot](Assets/images/screenshot.png)
 ```
 
 Link to website example:
