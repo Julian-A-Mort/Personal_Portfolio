@@ -24,13 +24,13 @@ Previous works and a short bio
 Screenshot:
 
 ```md
-    ![screenshot](Assets/images/screenshot.png)
+![screenshot](Assets/images/screenshot.png)
 ```
 
 Link to website example:
     
 ```md
-    ![Link to website](https://julian-a-mort.github.io/Personal_Portfolio/)
+[Link to website](https://julian-a-mort.github.io/Personal_Portfolio/)
 ```
 
 
